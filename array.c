@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int myArr[3] = {1,2,3};
+    int myArr[] = {1,2,3,4,5};
     int i;
     int n = sizeof(myArr)/sizeof(myArr[0]);
 
